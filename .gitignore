@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# IDE Icon Files
+/.idea/icon.svg
+
 # production
 /build
 
