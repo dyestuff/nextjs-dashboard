@@ -2,6 +2,7 @@
 pnpm-lock.yaml
 
 # dependencies
+package.json
 /node_modules
 /.pnp
 .pnp.js
