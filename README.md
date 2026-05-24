@@ -1,3 +1,3 @@
-## Next.js App Router Course
+## Next.js Dashboard App
 
-*Created this starter template for the Next.js App Router Course.*
+*Created this application with help by Next.js App Router Course and Next.js documentation.*
